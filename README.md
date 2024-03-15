@@ -1,2 +1,3 @@
 # first-project
-this is my first git hub project
+This is my first Git hub Project
+Athour - kunal pal
